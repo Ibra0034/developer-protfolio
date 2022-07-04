@@ -15,7 +15,8 @@ section {
 }
 
 .half-width {
-    width-50%;
+    text-align: justify
+    width-60%; 
     padding-left: 5%;
 }
 
