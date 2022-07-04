@@ -1,25 +1,25 @@
 body {
     font-family: 'Poppins', sans-serif;
 }
-
 h1 {
     font-size: 50px;
 }
-
 .orange-color {
     color: orange;
 }
-
 section {
     display: flex;
 }
-
 .half-width {
-    text-align: justify
-    width-60%; 
-    padding-left: 5%;
+    width-50%;
+    padding-left: 2%;
 }
-
 .half-width img {
     width: 80%;
+}
+.link-button {
+    background-image: linear-gradient(orange tomato);
+    text-decoration: none;
+    padding: 10px 40px;
+    border-radius: 5px;
 }
